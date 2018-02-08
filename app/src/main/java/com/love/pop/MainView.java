@@ -1,4 +1,4 @@
-package com.dkooizdat.jhq;
+package com.love.pop;
 
 import android.webkit.WebResourceError;
 import android.webkit.WebResourceResponse;

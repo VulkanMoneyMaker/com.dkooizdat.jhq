@@ -1,4 +1,4 @@
-package com.dkooizdat.jhq;
+package com.love.pop;
 
 public abstract class BasePresenter<T> implements ILifePresenter {
 
